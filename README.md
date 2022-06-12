@@ -3,3 +3,5 @@
 To test the our apporach with the proposed model, please pull the docker image which available in the dockerhub.
 
 To pull the docker image: docker pull beytullahsarica/deep-res-unet-ag-ms-activity-segmentation:v1.0.1
+
+# How to cite:
