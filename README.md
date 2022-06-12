@@ -1,7 +1,8 @@
 # New MS Lesion Segmentation with Deep Residual Attention Gate U-Net Utilizing 2D slices of 3D MR Images
 
-To test the our apporach with the proposed model, please pull the docker image which available in the dockerhub.
+The study was presented on September 23, 2021, in the MICCIA challenge.
 
-To pull the docker image: docker pull beytullahsarica/deep-res-unet-ag-ms-activity-segmentation:v1.0.1
+To test the our apporach with the proposed model, please pull the docker image which available in the dockerhub using the following command.
+  docker pull beytullahsarica/deep-res-unet-ag-ms-activity-segmentation:v1.0.1
 
 # How to cite:
