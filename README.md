@@ -3,6 +3,6 @@
 The study was presented on September 23, 2021, in the MICCIA challenge.
 
 To test the our apporach with the proposed model, please pull the docker image which available in the dockerhub using the following command.
-  docker pull beytullahsarica/deep-res-unet-ag-ms-activity-segmentation:v1.0.1
+* *docker pull beytullahsarica/deep-res-unet-ag-ms-activity-segmentation:v1.0.1
 
 # How to cite:
