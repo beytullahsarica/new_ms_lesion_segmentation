@@ -1,6 +1,6 @@
 # New MS Lesion Segmentation with Deep Residual Attention Gate U-Net Utilizing 2D slices of 3D MR Images
 
-The study was presented on September 23, 2021, in the MICCIA challenge.
+The study was presented on September 23, 2021, in the MICCIA challenge. Please read full paper from https://www.frontiersin.org/articles/10.3389/fnins.2022.912000/full.
 
 To test the our apporach with the proposed model, please pull the docker image which available in the dockerhub using the following command.
 
