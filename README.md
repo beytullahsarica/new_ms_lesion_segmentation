@@ -1,11 +1,13 @@
 # New MS Lesion Segmentation with Deep Residual Attention Gate U-Net Utilizing 2D slices of 3D MR Images
 
-The study was presented on September 23, 2021, in the MICCIA challenge. Please read full paper from https://www.frontiersin.org/articles/10.3389/fnins.2022.912000/full.
+This repository contains the implementation of our _MSSEG2021 MICCIA_ paper: [__New MS lesion segmentation with deep residual attention gate U-Net utilizing 2D slices of 3D MR images__](https://www.frontiersin.org/articles/10.3389/fnins.2022.912000/full).
 
-To test the our apporach with the proposed model, please pull the docker image which available in the dockerhub using the following command.
+The study was also presented on September 23, 2021 in the MICCIA challenge (Check out our [__Poster__](https://files.inria.fr/empenn/msseg-2/MSSEG2_Poster_Team7.pdf) and [__Presentation__](https://files.inria.fr/empenn/msseg-2/MSSEG2_Teaser_Team7.pdf)).
 
-_docker pull beytullahsarica/deep-res-unet-ag-ms-activity-segmentation:v1.0.1_
-
+To test the our apporach with the proposed model, please pull [__the docker image__](https://hub.docker.com/repository/docker/beytullahsarica/deep-res-unet-ag-ms-activity-segmentation) which is available in the dockerhub using the following command:
+```
+  docker pull beytullahsarica/deep-res-unet-ag-ms-activity-segmentation:v1.0.1
+```
 ## How to cite:
 If you use this repository, please cite our paper:
 ```
