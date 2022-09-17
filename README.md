@@ -6,7 +6,7 @@ To test the our apporach with the proposed model, please pull the docker image w
 
 _docker pull beytullahsarica/deep-res-unet-ag-ms-activity-segmentation:v1.0.1_
 
-# How to cite:
+## How to cite:
 If you use this repository, please cite our paper:
 ```
   @article{sarica2022new,
