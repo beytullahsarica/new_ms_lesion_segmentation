@@ -12,7 +12,7 @@ _docker pull beytullahsarica/deep-res-unet-ag-ms-activity-segmentation:v1.0.1_
   title={New MS lesion segmentation with deep residual attention gate U-Net utilizing 2D slices of 3D MR images},
   author={Sarica, Beytullah and Seker, Dursun Zafer},
   journal={Frontiers in Neuroscience},
-  pages={1154},
+  volume={16},
   year={2022},
-  publisher={Frontiers}
+  publisher={Frontiers Media SA}
 }
