@@ -9,7 +9,7 @@ To test the our apporach with the proposed model, please pull [__the docker imag
   docker pull beytullahsarica/deep-res-unet-ag-ms-activity-segmentation:v1.0.1
 ```
 ## How to cite:
-If you use this repository, please cite our paper:
+If you use this repository, please cite this study as given:
 ```
   @article{sarica2022new,
     title={New MS lesion segmentation with deep residual attention gate U-Net utilizing 2D slices of 3D MR images},
